@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+!![Snake animation](https://github.com/schambig/schambig.github.io/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 
