@@ -7,8 +7,11 @@ I am Salomón from Perú
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
 </div>
-<br>
-![Profile views](https://gpvc.arturio.dev/jmejiamu)  
+
+<h2>Visits:</h2>
+<div align="center">
+<img src="https://gpvc.arturio.dev/schambig"> 
+</div>
 
 <!--
 
