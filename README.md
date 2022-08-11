@@ -2,7 +2,13 @@
 
 I am Salomón from Perú 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schambig&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Stats:</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
+</div>
+<br>
+![Profile views](https://gpvc.arturio.dev/jmejiamu)  
 
 <!--
 
