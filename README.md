@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 I am Salomon Chambi from Perú 🇵🇪
 <!--
 
 **schambig/schambig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
