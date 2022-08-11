@@ -3,9 +3,14 @@
 I am Salomón from Perú 
 
 <h2>Stats:</h2>
-<div align="row">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
+<div class="container">
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonig/ht"> 
+  </div>
+  
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
+  </div>
 </div>
 
 <h2></h2>
