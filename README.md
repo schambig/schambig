@@ -2,7 +2,7 @@
 
 I am Salomón from Perú 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schambig&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schambig&theme=vue_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 
