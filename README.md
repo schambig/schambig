@@ -3,13 +3,15 @@
 I am Salomón from Perú 
 
 <!---
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight"> | <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=algolia"> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=algolia">
 :---: | :---:
+
 -->
 
 <br />
 <div align="center"> 
- <img height="160em" alt = "Salomon Chambi Github Stats" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="160em" alt = "Salomon Chambi Github Stats" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight&"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br />
