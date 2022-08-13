@@ -5,6 +5,8 @@ I am Salomón from Perú
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight"> | <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
 :---: | :---:
 
+![Snake animation](https://github.com/schambig/schambig/blob/output/github-contribution-grid-snake.svg)
+
 <h2></h2>
 <div align="center">
 <img src="https://gpvc.arturio.dev/schambig"> 
