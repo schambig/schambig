@@ -2,8 +2,10 @@
 
 I am Salomón from Perú 
 
+<!---
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=tokyonight"> | <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=tokyonight">
 :---: | :---:
+-->
 
 <br />
 <div align="center"> 
