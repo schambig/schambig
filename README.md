@@ -7,8 +7,8 @@ I am Salomón from Perú
 
 <br />
 <div align="center"> 
- <img height="170em" alt = "Salomon Chambi Github Stats" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=algolia"/>
+ <img height="150em" alt = "Salomon Chambi Github Stats" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <br />
 
