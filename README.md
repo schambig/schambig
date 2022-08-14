@@ -6,15 +6,15 @@ I am Salomón from Perú
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=algolia"> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=algolia">
 :---: | :---:
-algolia, tokyonight, onedark, dracula
+algolia, tokyonight, onedark, dracula, react
 -->
 
 <br />
 
 <div align="center">
 <a href="https://github.com/schambig">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=dracula&"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=react"/>
 </a>
 </div>
 <br />
