@@ -14,7 +14,7 @@ algolia, tokyonight, onedark, dracula, react
 <div align="center">
 <a href="https://github.com/schambig">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=7&theme=react"/>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=8&theme=react"/>
 </a>
 </div>
 <br />
