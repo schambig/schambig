@@ -25,11 +25,27 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 * 🛠 I am currently improving my Data Structure and Algorithms skills (using C language) and documenting the process, take a look at the repository:
 [Data Structures](https://github.com/schambig/data_structures)
 * 👨🏻‍💻 I am currently learning Python, HTML and CSS.
-* 📝 I like to write about the cool stuff that I am learning
+* 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
 * 🚀 I look forward to collaborate with the Open Source Community, feel free to reach me.
 * 💬 Ask me about anything tech related, I am happy to help.
 * 👾 I really love dystopian futuristic books/movies/series.
 * 😃 I am currently improving my inline skating skills, even though it could be a painful experience sometimes.
+
+<!---------- Languages and tools section ---------->
+### Languages and Tools:
+
+<div>
+  <img alt="schambig-Linux" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> &nbsp &nbsp
+  <img alt="schambig-Bash" height="38" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"> &nbsp &nbsp
+  <img alt="schambig-Git" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> &nbsp &nbsp
+  <img alt="schambig-Vim" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"> &nbsp &nbsp
+  <img alt="schambig-Emacs" height="38" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg"> &nbsp &nbsp
+  <img alt="schambig-C" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> &nbsp &nbsp
+  <img alt="schambig-Python" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> &nbsp &nbsp
+  <img alt="schambig-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp &nbsp
+  <img alt="schambig-CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
 
 <!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react) ---------->
 <br />
