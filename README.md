@@ -1,16 +1,26 @@
+<!---------- Profile banner ---------->
 [![](https://raw.githubusercontent.com/schambig/schambig/master/banner.gif)](https://github.com/schambig)
-
-<!---------- Social icons section ---------->
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/salom%C3%B3n-chambi-gutierrez-bb5007230/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@schambig/)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/schambig/)
-[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/salomonluis/)
 
 <!---------- Introduction ---------->
 ### Glad to see you here! 👋 
 
 Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across technologies and domains and I am always ready and open to work on new and challenging stuff.
 
+<!---------- Social icons section ---------->
+<div align="center">
+  <a href="https://www.linkedin.com/in/salom%C3%B3n-chambi-gutierrez-bb5007230/"_blank">
+    <img height="28" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/">
+  </a>
+  <a href="https://medium.com/@schambig/">
+    <img height="28" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+  <a href="https://twitter.com/schambig/">
+    <img height="28" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/salomonluis/">
+    <img height="28" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
 
 
 <!-- Statistics (themes: algolia, tokyonight, onedark, dracula, react) -->
