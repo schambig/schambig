@@ -1,17 +1,16 @@
 [![](https://raw.githubusercontent.com/schambig/schambig/master/banner.gif)](https://github.com/schambig)
 
-<!-- Social icons section -->
-
+<!---------- Social icons section ---------->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/salom%C3%B3n-chambi-gutierrez-bb5007230/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@schambig/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/schambig/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/salomonluis/)
 
- 
-### Glad to see you here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> 
+<!---------- Introduction ---------->
+### Glad to see you here! 👋 
 
-<!--  -->
-Hello, my name is Salomón and I am a full stack software developer student at [Holberton School](https://www.holbertonschool.com/)
+Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across technologies and domains and I am always ready and open to work on new and challenging stuff.
+
 
 
 <!-- Statistics (themes: algolia, tokyonight, onedark, dracula, react) -->
