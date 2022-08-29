@@ -34,6 +34,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- Languages and tools section ---------->
 ### Languages and Tools:
 
+<br/>
 <div>
   <a href="https://www.linux.org/" target="_blank"><img align="left" alt="schambig-Linux" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="schambig-Bash" height="37" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
@@ -46,12 +47,12 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="schambig-HTML" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img align="left" alt="schambig-CSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
 </div>
-<br />
-<br />
+<br/>
+<br/>
 
 <!---------- Statistics section (themes: algolia, tokyonight, onedark, dracula, react) ---------->
 <details>
-  <summary>📊 <h3>Show GitHub Stats:</h3></summary>
+  <summary>📊 <h3>Click to Show GitHub Stats:</h3></summary>
   <br/>
   <div align="center">
   <a href="https://github.com/schambig">
