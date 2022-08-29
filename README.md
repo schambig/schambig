@@ -2,8 +2,6 @@
 
 ### Hi there 👋 
 
-I am Salomón from Perú 
-
 <!---
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=algolia"> | <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&theme=algolia">
