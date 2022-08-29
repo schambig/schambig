@@ -17,10 +17,16 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <a href="https://twitter.com/schambig/">
     <img height="28" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/salomonluis/">
-    <img height="28" src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
 </div>
+
+### More about me:
+
+* 🛠 I am currently improving my Data Structure and Algorithms skills (in C language) and documenting the process, take a look:
+* 👨🏻‍💻 I am currently learning Python, HTML and CSS.
+* 🚀 I look forward to collaborate with the Open Source community, feel free to reach me.
+* 💬 Ask me about anything tech related, I am happy to help.
+* 👾 I really love dystopian futuristic books/movies/series.
+* 😃 I am currently improving my inline skating skills, even though it could be a painful experience sometimes.
 
 
 <!-- Statistics (themes: algolia, tokyonight, onedark, dracula, react) -->
