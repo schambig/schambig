@@ -36,11 +36,11 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 
 <br/>
   <div align="center">
-    <a href="https://www.linux.org/" target="_blank"><img align="left" alt="schambig-Linux" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="schambig-Bash" height="37" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
-    <a href="https://git-scm.com/" target="_blank"><img align="left" alt="schambig-Git" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
+   <a href="https://www.linux.org/" target="_blank"><img align="left" alt="schambig-Linux" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></a>
+   <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="schambig-Bash" height="37" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"></a>
+   <a href="https://git-scm.com/" target="_blank"><img align="left" alt="schambig-Git" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
    <a href="https://neovim.io/" target="_blank"><img align="left" alt="schambig-Vim" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"></a>
-    <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="schambig-Emacs" height="37" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg"></a>
+   <a href="https://www.gnu.org/software/emacs/" target="_blank"><img align="left" alt="schambig-Emacs" height="37" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg"></a>
    <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="schambig-VSCode" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
    <a href="https://www.iso.org/standard/74528.html" target="_blank"><img align="left" alt="schambig-C" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
    <a href="https://www.python.org/" target="_blank"><img align="left" alt="schambig-Python" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
