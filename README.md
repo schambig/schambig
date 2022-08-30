@@ -4,7 +4,7 @@
 <!---------- Introduction ---------->
 ### Glad to see you here! 👋 
 
-Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across technologies and domains, and I am always ready and open to work on new and challenging stuff.
+Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across different technologies, and I am always open to work on new and challenging stuff.
 
 <!---------- Social icons section ---------->
 <div align="center">
@@ -22,7 +22,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- More about me section ---------->
 ### More about me:
 
-* 🛠 I am currently improving my Data Structure and Algorithms skills (using C language) and documenting the process, take a look at the repository:
+* 🛠 I am currently improving my Data Structure and Algorithms skills (C language) and documenting the process, take a look at the repository:
 [Data Structures](https://github.com/schambig/data_structures)
 * 👨🏻‍💻 I am currently learning Python, HTML and CSS.
 * 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
