@@ -28,7 +28,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 * 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
 * 🚀 I look forward to collaborate with the Open Source Community, feel free to reach me.
 * 💬 Ask me about anything tech related, I am happy to help.
-* 👾 I really love dystopian futuristic books/movies/series.
+* 👾 I really enjoy dystopian cyberpunk futuristic books/mangas/movies/series/animes.
 * 😃 I am currently improving my inline skating skills, even though it could be a painful experience sometimes.
 
 <!---------- Languages and tools section ---------->
