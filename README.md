@@ -72,3 +72,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <div align="center">
 <img src="https://gpvc.arturio.dev/schambig"> 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
