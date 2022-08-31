@@ -22,8 +22,8 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- More about me section ---------->
 ### More about me:
 
-* 🛠 I am currently improving my Data Structure and Algorithms skills (C language) and documenting the process, take a look at the repository:
-[Data Structures](https://github.com/schambig/data_structures)
+* 🛠 I am currently improving my Data Structure and Algorithms skills (in C language). <!--and documenting the process, take a look at the repository:
+[Data Structures](https://github.com/schambig/data_structures)-->
 * 👨🏻‍💻 I am currently learning Python, HTML and CSS.
 * 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
 * 🚀 I look forward to collaborate with the Open Source Community, feel free to reach me.
