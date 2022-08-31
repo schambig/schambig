@@ -54,7 +54,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 ### Stats and Contributions:
 
 <details>
-  <summary>📊&nbsp;&nbsp;&nbsp;<b>Click to Show GitHub Stats:</b></summary>
+  <summary>📊&nbsp;&nbsp;<b>Click to show GitHub Stats:</b></summary>
   <br/>
   <div align="center">
   <a href="https://github.com/schambig">
