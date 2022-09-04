@@ -1,12 +1,15 @@
 <!---------- Profile banner ---------->
+
 [![](https://raw.githubusercontent.com/schambig/schambig/master/banner.gif)](https://github.com/schambig)
 
 <!---------- Introduction ---------->
+
 ### Glad to see you here! 👋 
 
 Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across different technologies, and I am always open to work on new and challenging stuff.
 
 <!---------- Social icons section ---------->
+
 <div align="center">
   <a href="https://www.linkedin.com/in/salom%C3%B3n-chambi-gutierrez-bb5007230/"_blank">
     <img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/">
@@ -20,6 +23,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 </div>
 
 <!---------- More about me section ---------->
+
 ### More about me:
 
 * 🛠 I am currently improving my Data Structure and Algorithms skills (in C language). <!--and documenting the process, take a look at the repository:
@@ -32,6 +36,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 * 😃 I am currently improving my inline skating skills, even though it could be a painful experience sometimes.
 
 <!---------- Languages and tools section ---------->
+
 ### Languages and Tools:
 
 <br/>
@@ -51,15 +56,16 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <br/>
 
 <!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section ---------->
+
 ### Stats and Contributions:
-<br/>
+
 <details>
-  <summary>📊&nbsp;&nbsp;<b>Click to show GitHub Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :</b></summary>
+  <summary>📊 <b>Click to show GitHub Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :</b></summary>
   <br/>
   <div align="center">
   <a href="https://github.com/schambig">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=8&theme=react"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=8&theme=react"/>
     <br/>
     <br/>
     <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
