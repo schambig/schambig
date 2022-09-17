@@ -30,7 +30,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 [Data Structures](https://github.com/schambig/data_structures)-->
 * 👨🏻‍💻 I am currently learning Python, HTML and CSS.
 * 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
-* 🚀 I look forward to collaborate with the Open Source Community, feel free to reach me.
+* 🚀 I look forward to collaborate with the Open Source Community, feel free to reach out to me.
 * 💬 Ask me about anything tech related, I am happy to help.
 * 👾 I really enjoy dystopian cyberpunk futuristic books/mangas/movies/series/animes.
 * 😃 I am currently improving my inline skating skills, even though it could be a painful experience sometimes.
