@@ -64,11 +64,11 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <br/>
   <div align="center">
   <a href="https://github.com/schambig">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=8&theme=react"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=8&theme=react"/>
     <br/>
     <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="80%"/>
   </a>
   </div>
 </details>
