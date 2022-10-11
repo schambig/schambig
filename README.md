@@ -59,7 +59,6 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section ---------->
 
 ### Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :
-  <div align="center"> :
 
   <a href="https://github.com/schambig">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
