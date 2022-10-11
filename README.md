@@ -60,6 +60,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 
 ### Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :
 
+<div align="center">
   <a href="https://github.com/schambig">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=6&theme=react"/>
@@ -67,7 +68,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
     <br/>
     <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
   </a>
-  </div>
+</div>
 
 <!---
 start hidden
@@ -94,9 +95,9 @@ end hidding
 ### Contributions in the last year:
 
 ![Snake animation](https://github.com/schambig/schambig/blob/output/github-contribution-grid-snake.svg)
-
+  
 <div align="center">
-<img src="https://gpvc.arturio.dev/schambig"> 
+  <img src="https://gpvc.arturio.dev/schambig"> 
 </div>
 
 <p align="center">
