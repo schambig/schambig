@@ -55,6 +55,8 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <br/>
 <br/>
 
+---
+
 
 <!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section ---------->
 
@@ -71,7 +73,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 </div>
 
 <!---
-start hidden
+===============START HIDDEN SECTION====================
 Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section
 
 ### Stats and Contributions:
@@ -89,7 +91,7 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
   </a>
   </div>
 </details>
-end hidding
+==================END HIDDEN SECTION====================
 --->
 
 ### Contributions in the last year:
