@@ -55,7 +55,26 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <br/>
 <br/>
 
+
 <!---------- Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section ---------->
+
+### Stats and Contributions:
+
+  <summary>📊 <b>Click to show GitHub Stats <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Eyes.png" width="3.5%"> :</b></summary>
+  <br/>
+  <div align="center">
+  <a href="https://github.com/schambig">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=6&theme=react"/>
+    <br/>
+    <br/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="85%"/>
+  </a>
+  </div>
+
+<!---
+start hidden
+Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animation and profile views count section
 
 ### Stats and Contributions:
 
@@ -64,14 +83,16 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <br/>
   <div align="center">
   <a href="https://github.com/schambig">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=6&theme=react"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=schambig&show_icons=true&theme=react&"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schambig&layout=compact&langs_count=6&theme=react"/>
     <br/>
     <br/>
-    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="90%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=schambig&theme=react-dark&bg_color=20232a&hide_border=true" width="85%"/>
   </a>
   </div>
 </details>
+end hidding
+--->
 
 ![Snake animation](https://github.com/schambig/schambig/blob/output/github-contribution-grid-snake.svg)
 
