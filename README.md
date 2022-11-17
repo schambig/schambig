@@ -38,7 +38,6 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- Languages and tools section ---------->
 
 ### Languages and Tools:
-
 <div>
   <img alt="schambig-Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-Bash" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">&nbsp;&nbsp;&nbsp;&nbsp;
