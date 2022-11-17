@@ -40,16 +40,16 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 ### Languages and Tools:
 
 <div>
-  <img alt="schambig-Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img alt="schambig-Bash" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">
-  <img alt="schambig-Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="schambig-Vim" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
-  <img alt="schambig-Emacs" height="37" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">
-  <img alt="schambig-VSCode" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="schambig-C" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img alt="schambig-Python" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img alt="schambig-HTML" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="schambig-CSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="schambig-Linux" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-Bash" height="35" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-Git" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-Vim" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-Emacs" height="37" src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-VSCode" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-C" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-Python" height="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-HTML" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="schambig-CSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
