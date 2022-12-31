@@ -84,7 +84,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   </a>
 </div>
 
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=schambig&area_color=0e4429&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=schambig&area_color=0e4429&theme=github-compact)](https://github.com/schambig)
 
 <!---
 ===============START HIDDEN SECTION====================
