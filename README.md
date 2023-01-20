@@ -11,7 +11,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <!---------- Social icons section ---------->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/salom%C3%B3n-chambi-gutierrez-bb5007230/"_blank">
+  <a href="https://www.linkedin.com/in/schambig/"_blank">
     <img height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/">
   </a>
   <a href="https://medium.com/@schambig/">
