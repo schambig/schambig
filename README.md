@@ -4,7 +4,7 @@
 
 <!---------- Introduction ---------->
 
-### Glad to see you here! 👋 
+Glad to see you here! 👋 
 
 Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across different technologies, and I am always open to work on new and challenging stuff.
 
