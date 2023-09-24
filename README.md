@@ -85,7 +85,9 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   </a>
 </div>
 
-[![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=schambig&area_color=0e4429&theme=github-compact)](https://github.com/schambig)
+<!---
+[![Activity](https://git[](url)hub-readme-activity-graph.cyclic.app/graph?username=schambig&area_color=0e4429&theme=github-compact)](https://github.com/schambig)
+--->
 
 <!---
 ===============START HIDDEN SECTION====================
@@ -109,6 +111,7 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 ==================END HIDDEN SECTION====================
 --->
 
+<!---
 ### Contributions in the last year:
 
 ![Snake animation](https://github.com/schambig/schambig/blob/output/github-contribution-grid-snake.svg)
@@ -120,3 +123,4 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+--->
