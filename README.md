@@ -119,8 +119,8 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 <div align="center">
   <img src="https://gpvc.arturio.dev/schambig"> 
 </div>
+--->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
---->
