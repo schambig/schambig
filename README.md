@@ -6,6 +6,10 @@
 
 Glad to see you here! 👋 
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=schambig" alt="schambig" />
+</p>
+
 I am Salomon a Software and Full Stack Web Developer with one year of hands-on experience, passionate about learning new technologies and tackling challenging projects.
 
 Seeking opportunities to further develop skills and contribute to dynamic projects in a growth-oriented environment.
@@ -127,9 +131,6 @@ Statistics (themes: algolia, tokyonight, onedark, dracula, react), Snake animati
 </div>
 --->
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=schambig" alt="schambig" />
-</p>
 <!-- <p align="right"> 
   <img src="https://badges.pufler.dev/repos/schambig" alt="schambig" />
 </p> -->
