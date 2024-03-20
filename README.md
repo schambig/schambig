@@ -4,6 +4,13 @@
 
 <!---------- Introduction ---------->
 
+<!---
+<div style="display: flex; justify-content: space-between; align-items: center; text-align: center;">
+  <span style="flex: 1;">Glad to see you here! 👋</span> 
+  <span style="display: inline-block;"><img src="https://komarev.com/ghpvc/?username=schambig" alt="schambig" /></span>
+</div>
+--->
+
 Glad to see you here! 👋 
 
 <p align="left"> 
