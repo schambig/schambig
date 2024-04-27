@@ -45,7 +45,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 
 * 🛠 I am currently improving my Data Structure and Algorithms skills. <!--and documenting the process, take a look at the repository:
 [Data Structures](https://github.com/schambig/data_structures)-->
-* 👨🏻‍💻 I am currently learning TypeScript.
+* 👨🏻‍💻 I am currently learning Golang.
 * 📝 I write about the cool stuff that I am learning, read my latest blog post [here.](https://medium.com/@schambig/)
 * 🚀 I look forward to collaborate with the Open Source Community, feel free to reach out to me.
 * 💬 Ask me about anything tech related, I am happy to help.
@@ -68,6 +68,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <img alt="schambig-CSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-Typescript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="schambig-Golang" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
 
 <!--
