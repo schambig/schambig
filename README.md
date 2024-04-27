@@ -93,7 +93,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
 <div align="center">
   <a href="https://github.com/schambig">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=schambig&hide_title=true&hide_border=true&show_icons=true&theme=react" alt="schambig" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=schambig&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=react" alt="schambig" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=schambig&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react" alt="schambig" />
     <br/>
     <br/>
     <!--
