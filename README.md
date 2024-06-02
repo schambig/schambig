@@ -67,7 +67,7 @@ Hello, my name is Salomón and I am a Full Stack Software Developer student at [
   <img alt="schambig-HTML" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-CSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img alt="schambig-Typescript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img alt="schambig-Typescript" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="schambig-Golang" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
 </div>
 
