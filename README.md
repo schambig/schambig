@@ -17,9 +17,9 @@ Glad to see you here! 👋
   <img src="https://komarev.com/ghpvc/?username=schambig" alt="schambig" />
 </p>
 
-I am Salomon a Software and Full Stack Web Developer with one year of hands-on experience, passionate about learning new technologies and tackling challenging projects.
+I am Salomon a Software and Full Stack Web Developer with focus on backend development, skilled in Python, Golang and JavaScript, passionate about learning new technologies and tackling challenging projects.
 
-Seeking opportunities to further develop skills and contribute to dynamic projects in a growth-oriented environment.
+Eager to grow my skills and contribute to dynamic and innovative projects in a collaborative environment.
 
 <!---
 Hello, my name is Salomón and I am a Full Stack Software Developer student at [Holberton School](https://www.holbertonschool.com/), I am a passionate learner who is always willing to learn and work across different technologies, and I am always open to work on new and challenging stuff.
