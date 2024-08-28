@@ -17,7 +17,7 @@ Glad to see you here! 👋
   <img src="https://komarev.com/ghpvc/?username=schambig" alt="schambig" />
 </p>
 
-I am Salomon a Software and Full Stack Web Developer with focus on backend development, skilled in Python, Golang and JavaScript, passionate about learning new technologies and tackling challenging projects.
+I am a Software and Full Stack Web Developer with focus on backend development, skilled in Python, Golang and JavaScript. I am passionate about learning new technologies and tackling challenging projects.
 
 Eager to grow my skills and contribute to dynamic and innovative projects in a collaborative environment.
 
